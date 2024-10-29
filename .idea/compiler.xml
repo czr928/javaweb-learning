@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="class01-servlet" />
+        <module name="class02-request" />
+        <module name="book-online" />
+        <module name="class03-response" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="brand-list" target="11" />
+      <module name="class04-cookie-session" target="11" />
+      <module name="class05-ajax-axios" target="17" />
+      <module name="class06-filter-listener" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
